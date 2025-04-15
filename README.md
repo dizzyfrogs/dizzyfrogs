@@ -9,7 +9,7 @@ I'm a **3rd-year Computer Science student** with a passion for **software engine
 - Learning full-stack development *(Recently built a contacts app using SQLAlchemy & Python!)*
 - Exploring data science *(Currently reading Introducing Data Science)*
 - Participating in CTF challenges *(Recently placed 1st in VCU's CTF)*
-- Building a recipe suggestion app based on available ingredients
+- Building a schedule and payroll management app 
 
 ## 📫 Connect with Me
 🔗 [LinkedIn](https://www.linkedin.com/in/suleiman-mejd/)
