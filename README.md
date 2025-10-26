@@ -2,13 +2,12 @@
 
 ## 🚀 About Me
 
-I'm a **3rd-year Computer Science student** with a passion for **software engineering and cybersecurity**. I'm always looking to improve my skills and build practical projects.
+I'm a **Junior Computer Science student** with a passion for **software engineering and cybersecurity**. I'm always looking to improve my skills and build practical projects.
 
 ## 💻 What I'm Working On
 
-- Learning full-stack development *(Recently built a contacts app using SQLAlchemy & Python!)*
+- Learning full-stack development *(Recently built a calorie tracking app using FastAPI & React!)*
 - Exploring data science *(Currently reading Introducing Data Science)*
-- Practicing working with external APIs
 
 ## 📫 Connect with Me
 🔗 [LinkedIn](https://www.linkedin.com/in/suleiman-mejd/)
