@@ -6,7 +6,7 @@ I'm a **Junior Computer Science student** with a passion for **software engineer
 
 ## 💻 What I'm Working On
 
-- Building AlgoJournal (A LeetCode companion that helps you track, reflect on, and improve your problem-solving skills over time.)
+- Building [AlgoJournal](https://algojournal.dev/) (A LeetCode companion that helps you track, reflect on, and improve your problem-solving skills over time.)
 - Exploring data science *(Currently reading Introducing Data Science)*
 
 ## 📫 Connect with Me
