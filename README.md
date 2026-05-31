@@ -1,13 +1,9 @@
-# Hi there, I'm Sully 👋 (He/Him)
+# Hey, I'm Sully 👋
 
-## 🚀 About Me
+Full-stack developer and CS student at Old Dominion University (graduating 2027).
+I build web apps, mobile tools, and the occasional thing that probably shouldn't exist.
 
-I'm a **Junior Computer Science student** with a passion for **software engineering**. I'm always looking to improve my skills and build practical projects.
-
-## 💻 What I'm Working On
-
-- Building [AlgoJournal](https://algojournal.dev/) (A LeetCode companion that helps you track, reflect on, and improve your problem-solving skills over time.)
-- Exploring data science *(Currently reading Introducing Data Science)*
+Currently building **[AlgoJournal](https://algojournal.dev)**: a spaced repetition app for practicing DSA.
 
 ## 📫 Connect with Me
 🔗 [LinkedIn](https://www.linkedin.com/in/suleiman-mejd/)
